@@ -1,0 +1,6 @@
+[book]
+authors = ["PrivateRookie"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "LittleNotes"
